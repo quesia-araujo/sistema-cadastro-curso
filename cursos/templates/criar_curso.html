@@ -13,6 +13,12 @@
 
     <button type="submit" class="btn btn-primary btn-block">Inserir curso</button>
   </form>
+
+  <br>
+  <h1> Cursos cadastrados </h1>
+  {% for curso in cursos %}
+    <p>{{curso.titulo}}</p>
+  {% endfor %}
  
   {% endif %}
 {% endblock %}
