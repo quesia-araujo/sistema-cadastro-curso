@@ -2,8 +2,7 @@
 
 ## Sobre o projeto
 
-Este projeto é um sistema de cadastro de cursos implementado em `python`, usando o framework `django` e testado com `pytest` e `postman`, desenvolvido com o intuitode realizar o gerenciamento de cursos online para uma empresa de cursos que oferece diversas opções de aprendizado. O sistema permite que a empresa gerencie os cursos oferecidos na parte administrativa, além de possibilitar a conexão através de outras plataformas para o cadastro de novos cursos e visualização.
-
+Este projeto é um sistema de cadastro de cursos, com foco no back-end, desenvolvido com `bootstrap`, implementado em `python`, usando o framework `django` e testado com `pytest` e `postman`. O sistema foi desenvolvido com o intuito de realizar o gerenciamento de cursos online para uma empresa de cursos que oferece diversas opções de aprendizado. O sistema permite que a empresa gerencie os cursos oferecidos na parte administrativa, além de possibilitar a conexão através de outras plataformas para o cadastro de novos cursos e visualização.
 
 ### Pagina inicial
 
